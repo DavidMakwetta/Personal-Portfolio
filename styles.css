@@ -1,0 +1,468 @@
+* {
+  margin: 0 px;
+  padding: 0 px;
+}
+
+body {
+  font-family: "Dosis", sans-serif;
+  background-color: #020616;
+}
+
+header {
+  margin-bottom: 100px;
+  position: sticky;
+  top: 0px;
+  background-color: #020616;
+  border-bottom: 2px solid yellow;
+}
+
+ul li {
+  list-style: none;
+  padding: 10px 16px;
+  margin: 7px;
+}
+
+h2,
+nav,
+ul {
+  display: inline-block;
+}
+
+li {
+  display: inline-block;
+}
+
+h2 {
+  margin-right: 50%;
+}
+
+ul li a {
+  font-size: 22px;
+  font-weight: bold;
+  text-decoration: none;
+  color: white;
+}
+
+ul li a:hover {
+  color: rgb(230, 104, 59);
+}
+
+#id1 {
+  font-size: 5dvb;
+  color: yellow;
+  margin-left: 5%;
+}
+
+.flex-container {
+  display: flex;
+  margin: auto;
+  justify-content: space-around;
+}
+
+#id2 {
+  width: 400px;
+
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-right: 10%;
+  margin-top: 20px;
+}
+
+#id3 {
+  width: 50%;
+  padding: 5px;
+  font-size: 20px;
+  font-family: "Dosis", sans-serif;
+  letter-spacing: 0px;
+  color: white;
+  margin-left: 5%;
+}
+
+.id4 {
+  color: white;
+  font-family: "Dosis", sans-serif;
+  font-size: 70px;
+  margin-left: 5%;
+}
+
+button {
+
+  font-size: 15px;
+
+}
+
+button a {
+  text-decoration: none;
+  color:black;
+  
+}
+#id6 {
+  color: yellow;
+}
+
+#id6:hover {
+  color: white;
+}
+
+#id7 {
+  color: yellow;
+}
+
+#id8 {
+  color: yellow;
+}
+
+button:hover {
+  background-color: teal;
+}
+
+#id10 {
+  width: 40%;
+
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 10%;
+}
+
+.flex {
+  display: flex;
+  height: 600px;
+
+  margin-top: 10%;
+  justify-content: space-around;
+}
+
+.id13 {
+  padding: 6px;
+  font-size: 20px;
+  font-family: "Dosis", sans-serif;
+  border-radius: 7px;
+  margin-left:20%;
+  
+}
+.id99{
+    padding: 5px;
+    font-size: 20px;
+    font-family: "Dosis", sans-serif;
+    border-radius: 6px;
+    margin-left:43%;
+     
+}
+
+#paragraph1 {
+  font-size: 25px;
+  
+  color: white;
+  width: 47%;
+  text-align: center;
+  line-height: -20%;
+  margin-left: 25%;
+}
+
+#paragraph2 {
+  font-size: 25px;
+  color: white;
+  width: 50%;
+  text-align: center;
+  line-height: -20%;
+  margin-left: 25%;
+}
+
+#paragraph3 {
+  font-size: 45px;
+  color: white;
+  width: 50%;
+  text-align: center;
+  line-height: -20%;
+  margin-left: 25%;
+}
+
+#id14 {
+  color: yellow;
+}
+
+#id15 {
+  color: yellow;
+}
+#id16 {
+  color: yellow;
+}
+
+#id17 {
+  font-size: 25px;
+  color: yellow;
+  width: 50%;
+  text-align: center;
+  line-height: -20%;
+  margin-left: 42%;
+}
+
+#id20 {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  font-family: "Dosis", sans-serif;
+}
+
+.project-title {
+  display: flex;
+  text-align: center;
+  color: white;
+  margin-top: 100px;
+  margin-bottom: 60px;
+}
+.project-title p {
+  color: white;
+  text-align: center;
+  font-size: 18px;
+
+
+}
+
+.project-title img {
+  width: 500px;
+}
+
+.project-title > div {
+  width:100%;
+  align-items: center;
+  border: 1px solid yellow;
+  margin:10px;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+
+.yellow {
+  color: yellow;
+}
+#id24 {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  font-family: "Dosis", sans-serif;
+  margin-bottom: 0.5%;
+}
+
+#id25 {
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  font-family: "Dosis", sans-serif;
+  letter-spacing: 1px;
+  padding: 30px;
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-top: 0.2px;
+}
+
+#id113 {
+  padding: 10px;
+  font-size: 30px;
+  font-family: "Dosis", sans-serif;
+  letter-spacing: 0px;
+  color: yellow;
+  margin-left: 43%;
+}
+
+.foot {
+  text-align: center;
+  color: yellow;
+ 
+  font-size: 30px;
+}
+
+.block {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  text-align: center;
+  color: white;
+  margin-top: 100px;
+  margin-bottom: 60px;
+}
+
+.block img {
+  width: 15%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 600px) {
+  header {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 10%;
+    position:initial;
+     top: 0px;
+  }
+
+  nav ul {
+    display: flex;
+    flex-direction: column;
+    margin-right: 5%;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+
+  .flex-container {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  #id2 {
+    width: 200px;
+    background-image: url("./images/profile.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-right: 10%;
+    margin-left: 24%;
+    margin-top: 20px;
+  }
+
+  #id1 {
+    font-size: 4dvb;
+    color: yellow;
+
+    text-align: center;
+  }
+
+  .id4 {
+    color: white;
+    font-family: "Dosis", sans-serif;
+    font-size: 24px;
+    text-align: center;
+    margin-left: 18%;
+  }
+
+  #id3 {
+    width: 94%;
+    text-align: center;
+    font-size: 20px;
+    font-family: "Dosis", sans-serif;
+    letter-spacing: 0px;
+    color: white;
+    margin-left: 5%;
+  }
+
+  .id13 {
+    padding: 10px;
+    font-size: 20px;
+    font-family: "Dosis", sans-serif;
+    letter-spacing: 1px;
+
+    margin-left: 35%;
+  }
+
+  .flex {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10%;
+    justify-content: space-around;
+    margin-bottom: 50%;
+  }
+
+  #id10 {
+    width: 90%;
+
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 5%;
+  }
+
+  #paragraph1 {
+    font-size: 20px;
+    font-family: "Dosis", sans-serif;
+    letter-spacing: 0px;
+    color: white;
+    text-align: center;
+  }
+
+  #paragraph2 {
+    font-size: 20px;
+    font-family: "Dosis", sans-serif;
+    letter-spacing: 0px;
+    color: white;
+    text-align: center;
+  }
+
+  #paragraph3 {
+    font-size: 20px;
+    font-family: "Dosis", sans-serif;
+    letter-spacing: 0px;
+    color: white;
+    text-align: center;
+  }
+
+  #id20 {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-family: "Dosis", sans-serif;
+  }
+
+  .project-title {
+    display: flex;
+    flex-direction: row;
+    
+  }
+  .project-title p {
+    color: white;
+    text-align:center;
+    font-size: 20px;
+    
+  
+  }
+
+  
+
+
+  #id24 {
+    color: yellow;
+    text-align: center;
+    font-size: 25px;
+    
+  }
+
+  #id25 {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    
+    padding: 30px;
+    margin-left: 30px;
+    margin-top: 0.2px;
+    width: 75%;
+  }
+
+  #id113 {
+    font-size: 25px;
+    font-family: "Dosis", sans-serif;
+    letter-spacing: 0px;
+    color: yellow;
+    margin-left: 30%;
+  }
+
+  .block img {
+    width: 50%;
+  }
+
+  .foot {
+    text-align: center;
+    color: yellow;
+    font-family: "Dosis", sans-serif;
+    letter-spacing: 0px;
+    font-size: 25px;
+  }
+}
