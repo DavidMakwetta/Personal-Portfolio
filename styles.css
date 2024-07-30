@@ -4,15 +4,15 @@
 }
 
 body {
-  font-family: "Dosis", sans-serif;
-  background-color: #020616;
+  font-family: "Poppins", sans-serif;
+  background-color: #03346E;
 }
 
 header {
   margin-bottom: 100px;
   position: sticky;
   top: 0px;
-  background-color: #020616;
+  background-color: #03346E;
   border-bottom: 2px solid yellow;
 
   height: 80px;
@@ -76,7 +76,7 @@ ul li a:hover {
   width: 70%;
   padding: 5px;
   font-size: 20px;
-  font-family: "Dosis", sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 0px;
   color: white;
   margin-left: 5%;
@@ -84,8 +84,8 @@ ul li a:hover {
 
 .id4 {
   color: white;
-  font-family: "Dosis", sans-serif;
-  font-size: 60px;
+  font-family: "Poppins", sans-serif;
+  font-size: 70px;
   margin-left: 5%;
 }
 
@@ -137,7 +137,7 @@ button:hover {
   padding: 6px;
   width: 200px;
   font-size: 20px;
-  font-family: "Dosis", sans-serif;
+  font-family: "Poppins", sans-serif;
   border-radius: 7px;
   margin-left: 6%;
   background-color: yellow;
@@ -147,7 +147,7 @@ button:hover {
 .id99 {
   padding: 5px;
   font-size: 20px;
-  font-family: "Dosis", sans-serif;
+  font-family: "Poppins", sans-serif;
   border-radius: 6px;
   margin-left: 43%;
 }
@@ -206,7 +206,7 @@ button:hover {
   color: white;
   text-align: center;
   font-size: 50px;
-  font-family: "Dosis", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .project-title {
@@ -242,7 +242,7 @@ button:hover {
   color: white;
   text-align: center;
   font-size: 50px;
-  font-family: "Dosis", sans-serif;
+  font-family: "Poppins", sans-serif;
   margin-bottom: 0.5%;
 }
 
@@ -250,7 +250,7 @@ button:hover {
   color: white;
   text-align: center;
   font-size: 20px;
-  font-family: "Dosis", sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 1px;
   padding: 30px;
   margin-left: 400px;
@@ -261,7 +261,7 @@ button:hover {
 #id113 {
   padding: 10px;
   font-size: 30px;
-  font-family: "Dosis", sans-serif;
+  font-family: "Poppins", sans-serif;
   letter-spacing: 0px;
   color: yellow;
   margin-left: 43%;
@@ -333,7 +333,7 @@ button:hover {
 
   .id4 {
     color: white;
-    font-family: "Dosis", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 24px;
     text-align: center;
     margin-left: 18%;
@@ -343,7 +343,7 @@ button:hover {
     width: 94%;
     text-align: center;
     font-size: 20px;
-    font-family: "Dosis", sans-serif;
+    font-family: "Poppins", sans-serif;
     letter-spacing: 0px;
     color: white;
     margin-left: 5%;
@@ -352,7 +352,7 @@ button:hover {
   .id13 {
     padding: 10px;
     font-size: 20px;
-    font-family: "Dosis", sans-serif;
+    font-family: "Poppins", sans-serif;
     letter-spacing: 1px;
 
     margin-left: 35%;
@@ -376,7 +376,7 @@ button:hover {
 
   #paragraph1 {
     font-size: 20px;
-    font-family: "Dosis", sans-serif;
+    font-family: "Poppins", sans-serif;
     letter-spacing: 0px;
     color: white;
     text-align: center;
@@ -384,7 +384,7 @@ button:hover {
 
   #paragraph2 {
     font-size: 20px;
-    font-family: "Dosis", sans-serif;
+    font-family: "Poppins", sans-serif;
     letter-spacing: 0px;
     color: white;
     text-align: center;
@@ -392,7 +392,7 @@ button:hover {
 
   #paragraph3 {
     font-size: 20px;
-    font-family: "Dosis", sans-serif;
+    font-family: "Poppins", sans-serif;
     letter-spacing: 0px;
     color: white;
     text-align: center;
@@ -402,7 +402,7 @@ button:hover {
     color: white;
     text-align: center;
     font-size: 25px;
-    font-family: "Dosis", sans-serif;
+    font-family: "Poppins", sans-serif;
   }
 
   .project-title {
@@ -434,7 +434,7 @@ button:hover {
 
   #id113 {
     font-size: 25px;
-    font-family: "Dosis", sans-serif;
+    font-family: "Poppins", sans-serif;
     letter-spacing: 0px;
     color: yellow;
     margin-left: 30%;
@@ -447,7 +447,7 @@ button:hover {
   .foot {
     text-align: center;
     color: yellow;
-    font-family: "Dosis", sans-serif;
+    font-family: "Poppins", sans-serif;
     letter-spacing: 0px;
     font-size: 25px;
   }
